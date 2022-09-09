@@ -11,7 +11,7 @@ Currently, I'm on a learning process, but I can understand and write:</br></br>
 ![HTML](https://img.shields.io/badge/HMTL-Novel-brightgreen?style=flat-square&logo=html5&logoColor=white&labelColor=101010)<br>
 ![CSS](https://img.shields.io/badge/CSS-Novel-brightgreen?style=flat-square&logo=css3&logoColor=white&labelColor=101010)<br>
 
-I also have an **English C2**, learned at Linguaskill, Cambridge. My native languaje is **Spanish**.
+I also have an **English B2**, learned at Linguaskill, Cambridge. My native languaje is **Spanish**.
 
 ## Projects
 
