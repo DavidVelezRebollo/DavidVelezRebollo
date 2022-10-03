@@ -15,7 +15,7 @@ I also have an **English B2**, learned at Linguaskill, Cambridge. My native lang
 
 ## Projects
 
-**[RPG 2D Game on Unity](https://github.com/DavidVelezRebollo/RPG-2D-Unity-Game)**
+
 
 ## Social Media
 
