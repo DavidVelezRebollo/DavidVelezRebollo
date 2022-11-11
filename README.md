@@ -16,7 +16,7 @@ I also have an **English B2**, learned at Linguaskill, Cambridge. My native lang
 ## Projects
 
 [2D-Game-Prototype](https://github.com/DavidVelezRebollo/2D-Game-Prototype/tree/main/MyPersonalProyect)<br>
-[Solitaire-Project]
+[Solitaire-Project](https://github.com/DavidVelezRebollo/Solitaire)<br>
 
 ## Social Media
 
