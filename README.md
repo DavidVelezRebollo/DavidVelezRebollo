@@ -4,10 +4,9 @@
 
 ## Skills
 Currently, I'm on a learning process, but I can understand and write:</br></br>
-![RPG Maker](https://img.shields.io/badge/RPG%20Maker-Advance-critical?style=flat-square&logo=internet&logoColor=white&labelColor=101010)<br>
+![Unity](https://img.shields.io/badge/Unity-Advance-red?style=flat-square&logo=unity&logoColor=white&labelColor=101010)<br>
 ![C++](https://img.shields.io/badge/C++-Intermediate-orange?style=flat-square&logo=cplusplus&logoColor=white&labelColor=101010)<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange?style=flat-square&logo=javascript&logoColor=white&labelColor=101010)<br>
-![Unity](https://img.shields.io/badge/Unity-Intermediate-orange?style=flat-square&logo=unity&logoColor=white&labelColor=101010)<br>
 ![HTML](https://img.shields.io/badge/HMTL-Novel-brightgreen?style=flat-square&logo=html5&logoColor=white&labelColor=101010)<br>
 ![CSS](https://img.shields.io/badge/CSS-Novel-brightgreen?style=flat-square&logo=css3&logoColor=white&labelColor=101010)<br>
 
