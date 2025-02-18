@@ -1,30 +1,44 @@
-# ✨ Hello, welcome to my profile! ✨
+<h2 align="left">Hello 👋✨! Welcome to my profile!</h2>
 
-**My name is David, I'm studiyng Videogame Design & Development**
+###
 
-## Skills
-Currently, I'm on a learning process, but I can understand and write:</br></br>
-![Unity](https://img.shields.io/badge/Unity-Advance-red?style=flat-square&logo=unity&logoColor=white&labelColor=101010)<br>
-![C++](https://img.shields.io/badge/C++-Intermediate-orange?style=flat-square&logo=cplusplus&logoColor=white&labelColor=101010)<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange?style=flat-square&logo=javascript&logoColor=white&labelColor=101010)<br>
-![HTML](https://img.shields.io/badge/HMTL-Novel-brightgreen?style=flat-square&logo=html5&logoColor=white&labelColor=101010)<br>
-![CSS](https://img.shields.io/badge/CSS-Novel-brightgreen?style=flat-square&logo=css3&logoColor=white&labelColor=101010)<br>
+<h3 align="left">My name is David. I'm a videogame programmer.</h3>
 
-I also have an **English B2**, learned at Linguaskill, Cambridge. My native languaje is **Spanish**.
+###
 
-## Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
+</div>
 
-<b>I work as programmer in: </b><br><br>
-[Busy Bee](https://gonsowo.itch.io/busy-bees)<br>
-[Optophobia](https://quantumweavers.itch.io/optophobia)<br>
-[Leave Something Behind](https://akakuroo.itch.io/leave-something-behind)<br>
-[La caida de ADAN](https://github.com/PabloCondeLopez/La-caida-de-ADAN)<br><br>
-<b>Personal projects:</b><br><br>
-[2D-Game-Prototype](https://github.com/DavidVelezRebollo/2D-Game-Prototype/tree/main/MyPersonalProyect)<br>
-[Solitaire-Project](https://github.com/DavidVelezRebollo/Solitaire)<br>
+###
 
-## Social Media
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+</div>
 
-[![Twitter](https://img.shields.io/badge/Twitter-Personal-blue?style=social&logo=twitter&logoColor=blue&labelColor=101010)](https://twitter.com/AkakuroD)<br>
-[![Twitter](https://img.shields.io/badge/Twitter-Developer%20Account-blue?style=social&logo=twitter&logoColor=blue&labelColor=101010)](https://twitter.com/DeveloperDeivid)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Personal-blue?style=social&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/david-antonio-vélez-rebollo-83a469169/)<br>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DavidVelezRebollo/DavidVelezRebollo/output/snake.svg" alt="Snake animation" />
+
+###
